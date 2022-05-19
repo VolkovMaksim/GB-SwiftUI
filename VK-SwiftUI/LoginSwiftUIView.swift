@@ -47,7 +47,7 @@ struct LoginSwiftUIView: View {
     }
     
     func checkLogin() {
-        print("ОКАЗАНО ВОЗДЕЙСТВИЕ")
+        print("НАЖАЛ КНОПКУ")
     }
     
     
