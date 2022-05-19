@@ -47,7 +47,7 @@ struct LoginSwiftUIView: View {
     }
     
     func checkLogin() {
-        print("НАЖАЛ КНОПКУ")
+        print("PUSH ME!")
     }
     
     
